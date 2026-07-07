@@ -17,6 +17,17 @@ The framework evaluates:
 Each category is analyzed using current data, prior-period comparisons, trend measurements, and classification logic to generate a concise macroeconomic assessment.
 
 ---
+## Documentation
+
+This repository includes a comprehensive methodology manual explaining:
+
+- Economic data sources
+- Report release schedules
+- Indicator methodology
+- Dashboard calculations
+- Market interpretation framework
+
+📄 **Macro Dashboard Instructions.pdf**
 
 ## Key Features
 
